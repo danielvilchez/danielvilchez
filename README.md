@@ -2,34 +2,35 @@
 
 Hello! 👋
 
-I am a BYU-Pathway Worldwide student focused on Software Development. I recently completed the Web and Computer Programming Certificate and continue improving my skills in C#, web development, and problem-solving.
+I am a BYU-Idaho student focused on Software Development. I recently completed the Web and Computer Programming Certificate and continue improving my skills in C#, web development, and problem-solving.
 
 ---
 
 ## About Me
 
-- I am passionate about software development and technology
-- I enjoy learning programming and building small projects
-- My goal is to grow as a developer and gain real-world experience
-- I am interested in remote and tech-related opportunities
+- I am passionate about software development and technology  
+- I enjoy learning programming and building academic projects  
+- My goal is to grow as a software developer and gain real-world experience  
+- I am interested in remote and technology-related opportunities  
 
 ---
 
 ## Skills & Technologies
 
-- C# (Visual Studio 2022)
-- HTML, CSS, JavaScript (basic)
-- Data entry and information management
-- Problem solving and logical thinking
-- English (Advanced level)
+- C# with Visual Studio 2022  
+- HTML, CSS, JavaScript  
+- Data entry and information management  
+- Problem solving and logical thinking  
+- English (Advanced level)  
 
 ---
 
 ## Projects
 
-- Academic C# applications using loops, conditions, and functions
-- Programming exercises focused on logic and problem solving
-- Data organization and processing tasks from BYU-Pathway courses
+- Developed academic C# applications using loops, conditionals, and functions  
+- Completed programming exercises focused on logic and problem solving  
+- Worked on data organization and processing tasks in BYU-Pathway courses  
+- Built foundational web development projects using HTML, CSS, and JavaScript  
 
 ---
 
